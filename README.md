@@ -5,6 +5,7 @@
 - 📫 How to reach me, use karmakar.soumyajit@gmail.com
 
 >env.reward_space = "Foobar"
+
 >env.reset(benchmark="benchmark://foo-v0/abc")
 
 <!---
