@@ -16,7 +16,7 @@ already works, then why not just add a new argument in the function and put the 
 
 >def reset(..., reward_space: str = "same",...):
 
->    if reward_space != "same":
+>      if reward_space != "same":
 
 >        self.reward_space = reward_space
 
