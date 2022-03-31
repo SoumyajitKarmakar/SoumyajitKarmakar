@@ -8,9 +8,8 @@ Hi @ChrisCummins,
 I would like to take a shot at fixing this problem.
 I have a question and a trivial solution which might be very silly, but if this
 
->env.reward_space = "Foobar"
-
->env.reset(benchmark="benchmark://foo-v0/abc")
+>     env.reward_space = "Foobar"
+>     env.reset(benchmark="benchmark://foo-v0/abc")
 
 already works, then why not just add a new argument in the function and put the first line in the function body ? Something like,
 
