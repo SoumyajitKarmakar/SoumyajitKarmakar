@@ -14,11 +14,9 @@ I have a question and a trivial solution which might be very silly, but if this
 
 already works, then why not just add a new argument in the function and put the first line in the function body ? Something like,
 
->def reset(..., reward_space: str = "same",...):
-
->      if reward_space != "same":
-
->        self.reward_space = reward_space
+>     def reset(..., reward_space: str = "same",...):
+>       if reward_space != "same":
+>         self.reward_space = reward_space
 
 and then copy the rest of the function below it, and let it run its normal course of actions.
 
