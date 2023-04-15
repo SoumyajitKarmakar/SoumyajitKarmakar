@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoumyajitKarmakar
 - 👀 I’m interested in computers and guitar
 - 🌱 I’m currently learning meditation
-- 💞️ I’m looking to collaborate on machine learning projects or a bit of game dev
+- 💞️ I’m looking to collaborate on computer vision projects.
 - 📫 How to reach me, use karmakar.soumyajit@gmail.com
 
 
