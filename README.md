@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and guitar
 - 🌱 I’m currently learning meditation
 - 💞️ I’m looking to collaborate on Deep Learning & Computer Vision projects.
-- 📫 How to reach me, use karmakar.soumyajit@gmail.com
+- 📫 How to reach me, use skarmakar@ucsd.edu
 
 
 <!---
