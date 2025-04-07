@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoumyajitKarmakar
 - 👀 I’m interested in computers and guitar
 - 🌱 I’m currently learning meditation
-- 💞️ I’m looking to collaborate on Deep Learning & Computer Vision projects.
+<!---- 💞️ I’m looking to collaborate on theoretical ML projects.--->
 - 📫 How to reach me, use skarmakar@ucsd.edu
 
 
