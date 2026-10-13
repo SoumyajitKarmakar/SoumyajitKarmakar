@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and guitar
 - 🌱 I’m currently learning meditation
 - 📫 How to reach me, use skarmakar@ucsd.edu
-- 🌐 Want to know more, go to soumyajitkarmakar.github.io
+- 🌐 Want to know more, go to [soumyajitkarmakar.github.io](https://soumyajitkarmakar.github.io/)
 <!---- 💞️ I’m looking to collaborate on theoretical ML projects.--->
 
 <!---
